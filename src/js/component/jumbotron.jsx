@@ -2,7 +2,7 @@ import React from "react";
 
 function Jumbotron() {
   return (
-    <div className="container text-center">
+    <div className="container text-center ">
       <div className=" row justify-content-center ">
         <div className="col col-lg-11 text-center">
           <div className="p-5 mb-4 bg-light rounded-3">

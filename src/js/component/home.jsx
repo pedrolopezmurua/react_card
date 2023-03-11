@@ -18,7 +18,7 @@ function Cimiento() {
         <Card />
         <Card />
         <Card />
-		<Footer/>
+		    <Footer/>
       </div>
     </div>
   );
